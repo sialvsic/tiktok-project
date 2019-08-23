@@ -47,3 +47,7 @@ How to get the tiktok video resources
 4. ios图标
 5. 首页屏的定制
 6. 如何存储视频
+
+## Result
+
+![video](./showcase/Snipaste_2019-08-23_17-40-04.png)
