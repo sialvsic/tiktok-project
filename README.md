@@ -39,3 +39,11 @@ and build using xcode
 How to get the tiktok video resources
 
 - [amemv-crawler](https://github.com/loadchange/amemv-crawler)
+
+## Todo
+1. 播放下一个，上一个视频自动暂停
+2. 视频缓存
+3. 如何发布到ios
+4. ios图标
+5. 首页屏的定制
+6. 如何存储视频
